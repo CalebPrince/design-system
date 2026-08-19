@@ -1,0 +1,14 @@
+{
+  "iconSystem": { "recommended": "Lucide", "usage": "Use 24px default icons with 1.5px–2px strokes; use SVG sources." },
+  "folders": {
+    "icons": "Product and interface SVG icons.",
+    "illustrations": "Product, marketing, and empty-state illustrations.",
+    "logos": "Approved brand marks and partner logos.",
+    "backgrounds": "Reusable texture and backdrop assets.",
+    "gradients": "Gradient definitions and exportable fills."
+  },
+  "assetRecord": { "name": "", "source": "", "license": "", "owner": "", "updated": "YYYY-MM-DD" },
+  "sourceReferences": [
+    { "name": "50+ Landing page designs — Community", "figmaFileKey": "oIkjYZd8j9yjMZnuBHn3qr", "nodeId": "873:894", "status": "reference only — replace assets after license review" }
+  ]
+}

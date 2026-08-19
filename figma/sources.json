@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "name": "landing-pages-51-55",
+      "fileKey": "oIkjYZd8j9yjMZnuBHn3qr",
+      "nodeId": "873:894",
+      "snapshotPath": "figma/snapshots/landing-pages-51-55.json",
+      "exportPath": "mockups/presentation/figma-landing-pages-51-55.png"
+    },
+    {
+      "name": "free-mockups-library",
+      "fileKey": "u0wWo0FJUQdINvCUqTAONU",
+      "nodeId": "1:3",
+      "snapshotPath": "figma/snapshots/free-mockups-library.json",
+      "exportPath": "mockups/presentation/figma-free-mockups-library.png",
+      "export": false
+    },
+    {
+      "name": "free-mockup-5-6051",
+      "fileKey": "u0wWo0FJUQdINvCUqTAONU",
+      "nodeId": "5:6051",
+      "snapshotPath": "figma/snapshots/free-mockup-5-6051.json",
+      "exportPath": "mockups/presentation/figma-free-mockup-5-6051.png",
+      "export": false
+    },
+    {
+      "name": "free-mockup-5-6073",
+      "fileKey": "u0wWo0FJUQdINvCUqTAONU",
+      "nodeId": "5:6073",
+      "snapshotPath": "figma/snapshots/free-mockup-5-6073.json",
+      "exportPath": "mockups/presentation/figma-free-mockup-5-6073.png"
+    },
+    {
+      "name": "free-mockups-390-3-4897",
+      "fileKey": "O5aAf1aiWZVSu4mFOK6nL6",
+      "nodeId": "3:4897",
+      "snapshotPath": "figma/snapshots/free-mockups-390-3-4897.json",
+      "exportPath": "mockups/presentation/figma-free-mockups-390-3-4897.png"
+    },
+    {
+      "name": "tailgrids-tailwind-ui-cover",
+      "fileKey": "NCrnToeae9XE8UwDJVihBZ",
+      "nodeId": "102:227",
+      "snapshotPath": "figma/snapshots/tailgrids-tailwind-ui-cover.json",
+      "exportPath": "mockups/presentation/figma-tailgrids-tailwind-ui-cover.png"
+    },
+    {
+      "name": "tailgrids-components-page",
+      "fileKey": "NCrnToeae9XE8UwDJVihBZ",
+      "nodeId": "310:22749",
+      "snapshotPath": "figma/snapshots/tailgrids-components-page.json",
+      "exportPath": "mockups/presentation/figma-tailgrids-components-page.png",
+      "export": false
+    },
+    {
+      "name": "brix-browser-mockups",
+      "fileKey": "GpHsL2lrnYZItaSO81ancc",
+      "nodeId": "668:14134",
+      "snapshotPath": "figma/snapshots/brix-browser-mockups.json",
+      "exportPath": "mockups/presentation/figma-brix-browser-mockups.png",
+      "export": false
+    }
+  ]
+}

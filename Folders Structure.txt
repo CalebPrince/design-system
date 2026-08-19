@@ -1,0 +1,61 @@
+figma-design-library/
+│
+├── README.md
+│
+├── design-systems/
+│   ├── foundations/
+│   │   ├── colors/
+│   │   ├── typography/
+│   │   ├── spacing/
+│   │   ├── grids/
+│   │   └── elevation/
+│   │
+│   ├── components/
+│   │   ├── buttons/
+│   │   ├── inputs/
+│   │   ├── cards/
+│   │   ├── navigation/
+│   │   ├── modals/
+│   │   ├── tables/
+│   │   └── forms/
+│   │
+│   └── patterns/
+│       ├── dashboards/
+│       ├── authentication/
+│       ├── onboarding/
+│       └── ecommerce/
+│
+├── templates/
+│   ├── landing-pages/
+│   ├── SaaS/
+│   ├── dashboards/
+│   ├── portfolios/
+│   ├── ecommerce/
+│   ├── agency/
+│   ├── mobile-app/
+│   └── admin-panels/
+│
+├── mockups/
+│   ├── browser/
+│   ├── desktop/
+│   ├── mobile/
+│   ├── tablet/
+│   ├── device-frames/
+│   └── presentation/
+│
+├── assets/
+│   ├── icons/
+│   ├── illustrations/
+│   ├── logos/
+│   ├── backgrounds/
+│   └── gradients/
+│
+├── references/
+│   ├── ui-inspiration/
+│   ├── typography/
+│   └── layouts/
+│
+└── docs/
+    ├── contributing.md
+    ├── naming-conventions.md
+    └── usage.md

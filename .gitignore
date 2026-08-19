@@ -1,0 +1,7 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded Figma exports (regenerate with scripts/Sync-Figma.ps1)
+mockups/presentation/figma-*.png
